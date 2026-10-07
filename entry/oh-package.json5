@@ -1,0 +1,22 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "吐槽 HarmonyOS 客户端主模块",
+  "main": "",
+  "author": "dvc890",
+  "license": "MIT",
+  "dependencies": {
+    "@ohos/danmakuflamemaster": "^2.1.3",
+    "@ohos/htmlparser2": "^1.0.4",
+    "domhandler": "^5.0.3",
+    "domutils": "^3.2.2",
+    "@ohos/imageknifepro": "^1.0.18",
+    "@ohos/okdownload": "^2.0.2",
+    "@ohos/liveeventbus": "^2.1.4",
+    "@ohos/htmlspanner": "^1.0.1",
+    "he": "^1.2.0",
+    "@mui/dayjs": "^1.11.13",
+    "@hmanimations/ezcustomtransition": "^1.3.0"
+  },
+  "devDependencies": {}
+}

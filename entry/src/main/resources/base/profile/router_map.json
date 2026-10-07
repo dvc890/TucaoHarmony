@@ -1,0 +1,188 @@
+{
+  "routerMap": [
+    {
+      "name": "VideoDetail",
+      "pageSourceFile": "src/main/ets/pages/VideoDetail.ets",
+      "buildFunction": "VideoDetailBuilder",
+      "data": {
+        "pageUrl": "VideoDetail"
+      }
+    },
+    {
+      "name": "Player",
+      "pageSourceFile": "src/main/ets/pages/Player.ets",
+      "buildFunction": "PlayerBuilder",
+      "data": {
+        "pageUrl": "Player"
+      }
+    },
+    {
+      "name": "OfflinePlayer",
+      "pageSourceFile": "src/main/ets/pages/OfflinePlayer.ets",
+      "buildFunction": "OfflinePlayerBuilder",
+      "data": {
+        "pageUrl": "OfflinePlayer"
+      }
+    },
+    {
+      "name": "Download",
+      "pageSourceFile": "src/main/ets/pages/Download.ets",
+      "buildFunction": "DownloadBuilder",
+      "data": {
+        "pageUrl": "Download"
+      }
+    },
+    {
+      "name": "DownloadSettings",
+      "pageSourceFile": "src/main/ets/pages/DownloadSettings.ets",
+      "buildFunction": "DownloadSettingsBuilder",
+      "data": {
+        "pageUrl": "DownloadSettings"
+      }
+    },
+    {
+      "name": "Rank",
+      "pageSourceFile": "src/main/ets/pages/Rank.ets",
+      "buildFunction": "RankBuilder",
+      "data": {
+        "pageUrl": "Rank"
+      }
+    },
+    {
+      "name": "Showtime",
+      "pageSourceFile": "src/main/ets/pages/Showtime.ets",
+      "buildFunction": "ShowtimeBuilder",
+      "data": {
+        "pageUrl": "Showtime"
+      }
+    },
+    {
+      "name": "AnimeTime",
+      "pageSourceFile": "src/main/ets/pages/AnimeTime.ets",
+      "buildFunction": "AnimeTimeBuilder",
+      "data": {
+        "pageUrl": "AnimeTime"
+      }
+    },
+    {
+      "name": "ChannelDetail",
+      "pageSourceFile": "src/main/ets/pages/ChannelDetail.ets",
+      "buildFunction": "ChannelDetailBuilder",
+      "data": {
+        "pageUrl": "ChannelDetail"
+      }
+    },
+    {
+      "name": "Uploader",
+      "pageSourceFile": "src/main/ets/pages/Uploader.ets",
+      "buildFunction": "UploaderBuilder",
+      "data": {
+        "pageUrl": "Uploader"
+      }
+    },
+    {
+      "name": "Browser",
+      "pageSourceFile": "src/main/ets/pages/Browser.ets",
+      "buildFunction": "BrowserBuilder",
+      "data": {
+        "pageUrl": "Browser"
+      }
+    },
+    {
+      "name": "Search",
+      "pageSourceFile": "src/main/ets/pages/Search.ets",
+      "buildFunction": "SearchBuilder",
+      "data": {
+        "pageUrl": "Search"
+      }
+    },
+    {
+      "name": "Login",
+      "pageSourceFile": "src/main/ets/pages/Login.ets",
+      "buildFunction": "LoginBuilder",
+      "data": {
+        "pageUrl": "Login"
+      }
+    },
+    {
+      "name": "Register",
+      "pageSourceFile": "src/main/ets/pages/Register.ets",
+      "buildFunction": "RegisterBuilder",
+      "data": {
+        "pageUrl": "Register"
+      }
+    },
+    {
+      "name": "ForgotPassword",
+      "pageSourceFile": "src/main/ets/pages/ForgotPassword.ets",
+      "buildFunction": "ForgotPasswordBuilder",
+      "data": {
+        "pageUrl": "ForgotPassword"
+      }
+    },
+    {
+      "name": "Personal",
+      "pageSourceFile": "src/main/ets/pages/Personal.ets",
+      "buildFunction": "PersonalBuilder",
+      "data": {
+        "pageUrl": "Personal"
+      }
+    },
+    {
+      "name": "ReplyFloor",
+      "pageSourceFile": "src/main/ets/pages/ReplyFloor.ets",
+      "buildFunction": "ReplyFloorBuilder",
+      "data": {
+        "pageUrl": "ReplyFloor"
+      }
+    },
+    {
+      "name": "MessageList",
+      "pageSourceFile": "src/main/ets/pages/MessageList.ets",
+      "buildFunction": "MessageListBuilder",
+      "data": {
+        "pageUrl": "MessageList"
+      }
+    },
+    {
+      "name": "MessageDetail",
+      "pageSourceFile": "src/main/ets/pages/MessageDetail.ets",
+      "buildFunction": "MessageDetailBuilder",
+      "data": {
+        "pageUrl": "MessageDetail"
+      }
+    },
+    {
+      "name": "Star",
+      "pageSourceFile": "src/main/ets/pages/Star.ets",
+      "buildFunction": "StarBuilder",
+      "data": {
+        "pageUrl": "Star"
+      }
+    },
+    {
+      "name": "PlayHistory",
+      "pageSourceFile": "src/main/ets/pages/PlayHistory.ets",
+      "buildFunction": "PlayHistoryBuilder",
+      "data": {
+        "pageUrl": "PlayHistory"
+      }
+    },
+    {
+      "name": "About",
+      "pageSourceFile": "src/main/ets/pages/About.ets",
+      "buildFunction": "AboutBuilder",
+      "data": {
+        "pageUrl": "About"
+      }
+    },
+    {
+      "name": "Settings",
+      "pageSourceFile": "src/main/ets/pages/Settings.ets",
+      "buildFunction": "SettingsBuilder",
+      "data": {
+        "pageUrl": "Settings"
+      }
+    }
+  ]
+}

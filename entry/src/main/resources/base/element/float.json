@@ -1,0 +1,60 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "font_size_title_lg",
+      "value": "20fp"
+    },
+    {
+      "name": "font_size_title",
+      "value": "17fp"
+    },
+    {
+      "name": "font_size_body",
+      "value": "15fp"
+    },
+    {
+      "name": "font_size_caption",
+      "value": "12fp"
+    },
+    {
+      "name": "radius_card",
+      "value": "12fp"
+    },
+    {
+      "name": "radius_button",
+      "value": "20fp"
+    },
+    {
+      "name": "radius_sheet",
+      "value": "24fp"
+    },
+    {
+      "name": "space_xs",
+      "value": "4fp"
+    },
+    {
+      "name": "space_sm",
+      "value": "8fp"
+    },
+    {
+      "name": "space_md",
+      "value": "12fp"
+    },
+    {
+      "name": "space_lg",
+      "value": "16fp"
+    },
+    {
+      "name": "space_xl",
+      "value": "24fp"
+    },
+    {
+      "name": "side_nav_width",
+      "value": "280fp"
+    }
+  ]
+}

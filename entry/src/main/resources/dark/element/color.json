@@ -1,0 +1,84 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#111318"
+    },
+    {
+      "name": "brand",
+      "value": "#F06292"
+    },
+    {
+      "name": "brand_pressed",
+      "value": "#EC407A"
+    },
+    {
+      "name": "brand_surface",
+      "value": "#3D2430"
+    },
+    {
+      "name": "page_background",
+      "value": "#111318"
+    },
+    {
+      "name": "card_background",
+      "value": "#1D2026"
+    },
+    {
+      "name": "float_background",
+      "value": "#262930"
+    },
+    {
+      "name": "nav_background",
+      "value": "#1D2026"
+    },
+    {
+      "name": "text_primary",
+      "value": "#E6E9EF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#B3BAC5"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#7C8592"
+    },
+    {
+      "name": "text_on_brand",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_inactive",
+      "value": "#B3BAC5"
+    },
+    {
+      "name": "divider",
+      "value": "#2E323A"
+    },
+    {
+      "name": "icon_tint",
+      "value": "#E6E9EF"
+    },
+    {
+      "name": "skeleton",
+      "value": "#262930"
+    },
+    {
+      "name": "mask",
+      "value": "#99000000"
+    },
+    {
+      "name": "error",
+      "value": "#FF6A4D"
+    },
+    {
+      "name": "success",
+      "value": "#81C780"
+    },
+    {
+      "name": "warning",
+      "value": "#FFB74D"
+    }
+  ]
+}

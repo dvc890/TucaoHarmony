@@ -1,0 +1,64 @@
+{
+  app: {
+    signingConfigs: [],
+    products: [
+      {
+        name: 'default',
+        targetSdkVersion: '26.0.0',
+        compatibleSdkVersion: "26.0.0",
+        runtimeOS: 'HarmonyOS',
+        buildOption: {
+          strictMode: {
+            caseSensitiveCheck: true,
+            useNormalizedOHMUrl: true
+          }
+        }
+      }
+    ],
+    buildModeSet: [
+      {
+        name: 'debug'
+      },
+      {
+        name: 'release'
+      }
+    ],
+    "capabilities": [
+      {
+        "bundleName": "me.sweetll.tucao",
+        "config": [
+          {
+            "name": "Push Kit",
+            "capability": "com.huawei.service.push.base_service"
+          },
+          {
+            "name": "Device status detection",
+            "capability": "com.huawei.service.device_security.device_verify"
+          },
+          {
+            "name": "Map Kit",
+            "capability": "com.huawei.service.mapkit"
+          },
+          {
+            "name": "Safety Detect",
+            "capability": "com.huawei.service.device_security.safety_detect"
+          }
+        ]
+      }
+    ]
+  },
+  modules: [
+    {
+      name: 'entry',
+      srcPath: './entry',
+      targets: [
+        {
+          name: 'default',
+          applyToProducts: [
+            'default',
+          ],
+        },
+      ],
+    },
+  ],
+}
